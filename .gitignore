@@ -1,0 +1,10 @@
+﻿local_model_base/
+best_korean_reward_model/
+local_dataset_cache/
+hf_korean_reward_model_checkpoint/
+wandb/
+.ipynb_checkpoints/
+__pycache__/
+*.bin
+*.h5
+*.msgpack
